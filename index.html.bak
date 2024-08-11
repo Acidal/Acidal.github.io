@@ -4,8 +4,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 body, html {
-  width: auto;
-  height: auto;
+  width: viewport;
+  height: viewport;
   margin: 0;
 }
 
